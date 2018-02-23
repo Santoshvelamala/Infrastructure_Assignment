@@ -1,6 +1,7 @@
 # Infrastructure_Assignment
 
-Python Application
+works On Ubuntu machine.
+Use Python2.7 to run the code.
 
 Its a small application which supports five functionalities:
 
